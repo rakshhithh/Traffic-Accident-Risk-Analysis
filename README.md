@@ -31,16 +31,16 @@ The Random Forest model was chosen for its robustness in handling tabular data a
 ## 📸 Visualizations
 
 ### 1. Accident Severity Distribution
-![Accident Severity Distribution](path/to/your/image1.png)
+![Accident Severity Distribution](images/accident-severity.png)
 
 ### 2. Top Causes of Accidents
-![Top Causes of Accidents](path/to/your/image2.png)
+![Top Causes of Accidents](images/top-causes-of-accidents.png)
 
 ### 3. Weather vs Severity Heatmap
-![Weather vs Severity Heatmap](path/to/your/image3.png)
+![Weather vs Severity Heatmap](images/weather-vs-severity-heatmap.png)
 
-### 4. Feature Importance
-![Feature Importance](path/to/your/image4.png)
+### 4. Age Group vs Accident Severity
+![Age Group vs Accident Severity](images/age-group-vs-accident-severity.png)
 
 ## 🚨 Recommendations
 1. **Improve Road Lighting:** Upgrade illumination on high-risk, accident-prone streets.
@@ -48,4 +48,7 @@ The Random Forest model was chosen for its robustness in handling tabular data a
 3. **Enhance Road Design:** Redesign critical junctions and add better signage or traffic control measures.
 4. **Target High-Risk Behaviors:** Increase enforcement and awareness campaigns around speeding and distracted driving.
 
----
+## 🚀 Future Improvements
+1. Deploy as a web dashboard
+2. Real-time accident prediction
+3. Integration with traffic systems
